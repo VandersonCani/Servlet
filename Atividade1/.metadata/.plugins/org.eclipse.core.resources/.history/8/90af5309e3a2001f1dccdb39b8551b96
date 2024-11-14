@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Site de Coldigo de Geladeiras">
+    <meta name="keywords" content="Geladeiras, Frost-free, Refrigeração">
+    <meta name="author" content="Enzo Alexandre Aluno UniSenai">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coldigo de Geladeiras</title>
+    <link rel="stylesheet" type="text/css" href="../css/site.css">
+    <script src="../js/site.js"></script>
+</head>
+<body>
+    <header>
+        <img src="../img/logo.png" alt="Logo do Coldigo de Geladeiras">
+        <h1>Coldigo de Geladeiras</h1>
+    </header>
+    <nav>
+        <a href="index.html"><div class="opcao">Inicio</div></a>
+        <a href="../META-INF/pages/sites/produto.html"><div class="opcao">Produtos</div></a>
+        <a href="../META-INF/pages/sites/faleconosco.html"><div class="opcao">Fale Conosco</div></a>
+    </nav>
+
+    <section>
+        <div id="topo">
+            <img src="../img/geladeira1.png" alt="Imagen de uma geladeira" class="geladeira esquerda">
+            <div id="titulos">
+                <h2>Bem vindo ao site da<br>Coldigo Geladeiras!</h2>
+                <h3>A maior loja de geladeiras da região</h3>
+            </div>
+            <img src="../img/geladeira2.png" alt="Imagen de uma geladeira" class="geladeira direita">
+        </div>
+        <p>Coldigo de geladeiras é a maior empresa de revenda de geladeiras,
+        refrigeradores, freezers e afins da região.Desde 2007 gelando e 
+        congelando o seu prazer.</p>
+        <p>Sua geladeira estragou? Esta precisando de uma maior? Quer mais 
+        conforto e praticidade? Já pensou fazer um consórcio de geladeira?
+        Venha nos fazer uma visita ou entre em contato para mais informações.</p>
+    </section>
+    <footer>Copyrigth &copy; Vanderson Alex Cani UniSenai 2024</footer>
+</body>
+</html>
